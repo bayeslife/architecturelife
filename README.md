@@ -1,2 +1,5 @@
+# Mind maps
 
-# This are a number of mind maps about architecture.
+This repository contains are a number of mind maps about architecture.
+
+Use with View Your Mind (vym)
