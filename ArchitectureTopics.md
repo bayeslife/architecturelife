@@ -112,3 +112,8 @@ Jest
 ###  Integration Testing
 - [TestCafe](https://www.npmjs.com/package/testcafe)
 - [Cypress](https://www.cypress.io/)
+
+
+## Dependency Management
+- npm link
+- [yalc](https://github.com/whitecolor/yalc) - Facilitates development with multiple packages without publishing
