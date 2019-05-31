@@ -10,6 +10,14 @@
 - Kafka - focus on speed and reliability. Streaming only.  Complexity high
 - NATS - focus on simplicity. Has streaming but not highly available streaming as yet
 
+## Complex Event Processing
+- [EEP](https://github.com/darach/eep-js)
+- [RxJS](https://www.learnrxjs.io/)
+
+## Rules Engine
+Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
+- [Waylay.io](https://www.waylay.io)
+
 ## Statistics Libraries
 
 - [Simple Statistics](https://simplestatistics.org)
