@@ -93,6 +93,7 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 
 - ngrok.io 
 - xip.io
+- [localtunnel](https://localtunnel.github.io)
 
 ## Browser Error Aggregation
 
@@ -125,3 +126,4 @@ Jest
 ## Dependency Management
 - npm link
 - [yalc](https://github.com/whitecolor/yalc) - Facilitates development with multiple packages without publishing
+- yarn public-local
