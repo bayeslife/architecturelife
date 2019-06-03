@@ -89,6 +89,9 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - segment.io
 - funnel.io
 
+## Synchronize Data Setse
+- [Zapier Cloud Based Integration Platform](https://zapier.com/)
+
 ## Surface private services to the internet
 
 - ngrok.io 
