@@ -130,3 +130,14 @@ Jest
 - npm link
 - [yalc](https://github.com/whitecolor/yalc) - Facilitates development with multiple packages without publishing
 - yarn public-local
+
+## Dashboard Analytics Platforms
+
+- [Cube JS](https://github.com/statsbotco/cube.js) [Cube.dev](https://cube.dev/) Definitely looks like it would address problems with had in original MineQ project where we were attempting to send large results sets to the front end to support the analytics views.  I think it effectively creates materialized viewes in the DB layer for every query the front end needs.  The query just simple does a fetch from the back end.
+
+
+### Query Storage 
+- MongoDB
+- Click House
+- Big Query
+- AWS Athena
