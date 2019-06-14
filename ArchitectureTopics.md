@@ -8,6 +8,7 @@
 
 - RabbitMQ - Traditional message broker
 - Kafka - focus on speed and reliability. Streaming only.  Complexity high
+    - Event Hub - Azure Kafka as a service
 - NATS - focus on simplicity. Has streaming but not highly available streaming as yet
 
 ## Complex Event Processing
@@ -141,3 +142,10 @@ Jest
 - Click House
 - Big Query
 - AWS Athena
+
+
+### Methodology
+
+- Scrum
+- Kanban
+- [Disciplined Agile](http://disciplinedagiledelivery.com/)
