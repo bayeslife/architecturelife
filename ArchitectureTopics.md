@@ -149,3 +149,8 @@ Jest
 - Scrum
 - Kanban
 - [Disciplined Agile](http://disciplinedagiledelivery.com/)
+
+### API Definition
+- [Swagger](https://swagger.io/) - Focus on REST API
+- [AsyncAPI](https://www.asyncapi.com/) - Focused on Event Driven Architecture
+
