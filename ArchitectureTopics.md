@@ -11,6 +11,12 @@
     - Event Hub - Azure Kafka as a service
 - NATS - focus on simplicity. Has streaming but not highly available streaming as yet
 
+### MicroService Architecture
+[This talk is useful to run through microservice architecture challengs](https://www.youtube.com/watch?v=fhZwzm-d9ys)
+- Sagas - as the way to acheive distributed transactions
+- CQRS - as the way to acheive distributed queries
+- Event Sourcing or Transactional Outbox - as the way to achieve atomicity between update state and create events
+
 ## Complex Event Processing
 - [EEP](https://github.com/darach/eep-js)
 - [RxJS](https://www.learnrxjs.io/)
@@ -52,6 +58,7 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [Disciplined Agile](http://disciplinedagiledelivery.com/the-dad-role-of-architecture-owner/) - How architect fits into agile
 - [Explicit Archtecture](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
+- [Ports and Adapters](https://softwarecampament.wordpress.com/portsadapters/)
 
 ## SDLC Concerns
 
@@ -153,4 +160,8 @@ Jest
 ### API Definition
 - [Swagger](https://swagger.io/) - Focus on REST API
 - [AsyncAPI](https://www.asyncapi.com/) - Focused on Event Driven Architecture
+
+
+
+
 
