@@ -162,6 +162,7 @@ Jest
 - [AsyncAPI](https://www.asyncapi.com/) - Focused on Event Driven Architecture
 
 
+### Schemas
 
-
-
+#### Measurements
+- [ISO 19156 Observations & Measurements (O&M) data model](https://en.wikipedia.org/wiki/Observations_and_Measurements)
