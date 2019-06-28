@@ -45,6 +45,7 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - netlify.com
 - gitlab.com
 - [Atomist](https://atomist.com/) - full javascript CI/CD
+- [ZeitNow](https://zeit.co/now)
 
 ## Email Related Services
 
