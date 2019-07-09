@@ -98,7 +98,7 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - segment.io
 - funnel.io
 
-## Synchronize Data Setse
+## Synchronize Data Sets
 - [Zapier Cloud Based Integration Platform](https://zapier.com/)
 
 ## Surface private services to the internet
@@ -122,7 +122,7 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 ## Testing 
 
 ### TDD
-Red-Green-Refactor
+[Red-Green-Refactor](https://www.youtube.com/watch?v=EZ05e7EMOLM) - This has been a breath of fresh air as it address how to minimize writing tests but get the benefits of TDD.
 
 ### Unit Testing
 Riteway
@@ -157,6 +157,8 @@ Jest
 - Scrum
 - Kanban
 - [Disciplined Agile](http://disciplinedagiledelivery.com/)
+- [Spiral](https://csse.usc.edu/TECHRPTS/1988/usccse88-500/usccse88-500.pdf)
+- [Red-Green-Refactor](https://www.youtube.com/watch?v=EZ05e7EMOLM) - Can we say this is a methodology
 
 ### API Definition
 - [Swagger](https://swagger.io/) - Focus on REST API
