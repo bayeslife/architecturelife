@@ -169,3 +169,8 @@ Jest
 
 #### Measurements
 - [ISO 19156 Observations & Measurements (O&M) data model](https://en.wikipedia.org/wiki/Observations_and_Measurements)
+
+
+### IOT Architecture
+
+[Microsoft Reference Architecture for IOT](https://aka.ms/iotrefarchitecture)
