@@ -52,6 +52,10 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - mailinator.com - Public Email
 - mailtrap.io - SMTP Server useful for dev/staging environments so email isnt sent to customers.
 
+
+- [A framework for rendering web emails](https://mjml.io/)
+
+
 ## Architecture Frameworks
 
 - TMForum
