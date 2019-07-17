@@ -178,3 +178,8 @@ Jest
 ### IOT Architecture
 
 [Microsoft Reference Architecture for IOT](https://aka.ms/iotrefarchitecture)
+
+
+## Architect in Agile
+
+[Architect-Agile-Manifesto](https://www.infoq.com/articles/architect-agile-manifesto/)
