@@ -1,4 +1,4 @@
-# How to Provider Support
+# How to Provide Support
 
 A team can supporting a bespoke solution when there are is a commercial arrangement involving the following aspects:
 -	Fixed cost to cover

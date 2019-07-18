@@ -156,13 +156,18 @@ Jest
 - AWS Athena
 
 
-### Methodology
+### Development Methodology
 
 - Scrum
 - Kanban
 - [Disciplined Agile](http://disciplinedagiledelivery.com/)
 - [Spiral](https://csse.usc.edu/TECHRPTS/1988/usccse88-500/usccse88-500.pdf)
 - [Red-Green-Refactor](https://www.youtube.com/watch?v=EZ05e7EMOLM) - Can we say this is a methodology
+
+### Data Mininig Methodology
+
+- [CRISP DM](https://www.sv-europe.com/crisp-dm-methodology)
+
 
 ### API Definition
 - [Swagger](https://swagger.io/) - Focus on REST API
