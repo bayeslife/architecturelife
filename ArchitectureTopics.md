@@ -138,6 +138,8 @@ Jest
 - [TestCafe](https://www.npmjs.com/package/testcafe)
 - [Cypress](https://www.cypress.io/)
 
+### Quality Checklists
+[Power of 10 Rules](https://en.wikipedia.org/wiki/The_Power_of_10:_Rules_for_Developing_Safety-Critical_Code?source=post_page---------------------------)
 
 ## Dependency Management
 - npm link
@@ -188,3 +190,7 @@ Jest
 ## Architect in Agile
 
 [Architect-Agile-Manifesto](https://www.infoq.com/articles/architect-agile-manifesto/)
+
+### Catalog of Conferences Related to Software Development
+
+[it call for papers list](https://github.com/softwaremill/it-cfp-list/blob/master/README.md)
