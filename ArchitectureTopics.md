@@ -64,6 +64,7 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - [Disciplined Agile](http://disciplinedagiledelivery.com/the-dad-role-of-architecture-owner/) - How architect fits into agile
 - [Explicit Archtecture](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 - [Ports and Adapters](https://softwarecampament.wordpress.com/portsadapters/)
+- [Cell based framework](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
 
 ## SDLC Concerns
 
@@ -110,6 +111,10 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - ngrok.io 
 - xip.io
 - [localtunnel](https://localtunnel.github.io)
+
+## Domain Name Services
+
+nip.io - Provides DNS lookup for 1.2.3.4.nip.io to the corresponding IP address
 
 ## Browser Error Aggregation
 
@@ -194,3 +199,14 @@ Jest
 ### Catalog of Conferences Related to Software Development
 
 [it call for papers list](https://github.com/softwaremill/it-cfp-list/blob/master/README.md)
+
+
+## How to break projects down
+
+[Breaking Apart Monolith](https://techbeacon.com/app-dev-testing/how-break-apart-monolith-without-destroying-your-team) - Domain Driven Design, Reverse Conways Law, 
+
+
+## What technologies are popular on the web
+
+[BuiltWith](https://trends.builtwith.com/) - This site exposes technology usage on the web. Similar to idea I had a few years back.
+ 
