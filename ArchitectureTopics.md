@@ -52,9 +52,7 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - mailinator.com - Public Email
 - mailtrap.io - SMTP Server useful for dev/staging environments so email isnt sent to customers.
 
-
 - [A framework for rendering web emails](https://mjml.io/)
-
 
 ## Architecture Frameworks
 
@@ -65,6 +63,10 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - [Explicit Archtecture](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 - [Ports and Adapters](https://softwarecampament.wordpress.com/portsadapters/)
 - [Cell based framework](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
+
+## UI Architecture Frameworks
+- MVC
+- [Flux Architecture - Creating UIs](https://facebook.github.io/flux/)
 
 ## SDLC Concerns
 
