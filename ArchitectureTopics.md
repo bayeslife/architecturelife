@@ -212,3 +212,9 @@ Jest
 
 [BuiltWith](https://trends.builtwith.com/) - This site exposes technology usage on the web. Similar to idea I had a few years back.
  
+ ## Deployment Strategies
+ [Nice overview](https://thenewstack.io/deployment-strategies/)
+ - Recreate
+ - Rolling
+ - Canary
+ - Blue/Green
