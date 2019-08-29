@@ -78,11 +78,17 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - Jest
 - Ava
 
-### Full Stack Application Templates Approachs
+### Full Stack Application Templates Approaches
 - Yeoman : a bit dated now
 - React: react has its own templating  though its CLI
 - Vue : Vuew has its own templates through its CLI
 - [Mern](https://mern.io) : Havent yet tried these
+
+
+### Dashboard Templates Approaches
+
+- https://flatlogic.com/
+- https://coreui.io/
 
 ### Log Analytics
 - Splunk
@@ -218,3 +224,16 @@ Jest
  - Rolling
  - Canary
  - Blue/Green
+
+
+ ## Mapping Library
+ 
+ - Google Maps
+ - Leaflet.js
+
+
+## UI Styling Approaches
+
+- Bootstrap
+- Material Design
+- [Microsoft UI Fabric React](https://developer.microsoft.com/en-us/fabric#/)-With a theme designer [here](https://fabricweb.z5.web.core.windows.net/pr-deploy-site/refs/heads/master/theming-designer/index.html)
