@@ -85,6 +85,10 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - [Mern](https://mern.io) : Havent yet tried these
 
 
+### Visualization Framework
+- [D3]https://d3js.org/
+- [Deck GL](https://deck.gl/#/examples/core-layers/trips-layer)
+
 ### Dashboard Templates Approaches
 
 - https://flatlogic.com/
@@ -106,11 +110,27 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - [Plkr](https://plnkr.co/) : Angular specific
 - [Code Pen](https://codepen.io/)
 
-## Data Pipeline
+## Cloud Data Pipeline
 
 - segment.io
 - funnel.io
+- https://www.datagekko.com
 
+
+# Data Pipeline Approaches
+
+| Cloud | Product    | Base Technology | Description |
+| ----- | ---------- | --------------- | ----------- | 
+| GCP   | Composer   | Apache AirFlow         | About definining a data pipeline and its run schedule in code |
+| GCP   | Data Flow  | Apache Beam                |  An sdk which produces a programming paradigm to execute parallel execution. |
+| GCP   | Data Proc  | Apache Spark and Hadoop | A distributed query engine which is really on part of the data pipeline requirement | 
+| GCP   | Data Prep  | Trifacta                |  Cloud based, visual design tool |
+| Azure  | DataBricks  | Apache Spark   | A distributed query engine which is only part of the data pipeline requirement |
+| AWS  | QuickSight  |                 |  Cloud based, visual design pipeline tool |
+| AWS  | Glue  |                 |  Serverless data pipeline |
+| AWS | EMR | Apache Spark and Hadoop | Distributed query engined |
+| AWS | Data Pipeline |  | Orchestration of Pipeline using other AWS services |
+ 
 ## Synchronize Data Sets
 - [Zapier Cloud Based Integration Platform](https://zapier.com/)
 
