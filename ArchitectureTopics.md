@@ -247,7 +247,8 @@ Jest
 
 
  ## Mapping Library
- 
+
+ [Article providing commentary on the set of mapping apis](https://flatlogic.com/blog/top-javascript-maps-api-and-libraries/)
  - Google Maps
  - Leaflet.js
 
