@@ -1,27 +1,53 @@
 # Architecture Topics
 
+## Current View for How to Break Down Technology
+Analytics – Science – Problem Formation
+Story/Constraints – Elicitation – Problem Breakdown
+Planning - Collaboaration - Progressing team solution
+
+Access - Authentication and Authorization – Making a solution available
+
+Integration – Standardization – Getting data from external systems
+Infrastructure – Realization – Resource provisioning
+DevOps – Automation – Reducing SDLC cycle time
+
+Dashboard – Presentation – Effective information display and control
+Push – Notification – Pushing information to users
+
+Forecasting  - Modelling – IO Functions
+- Programmatic – System Development
+- Training  - Machine Learning
+API – Interfacing – Surfacing model behaviour
+Pipelines – Composition – Joining information sources/streams
+
+Warehousing - Data Life Cycling – What and how data is stored
+
+Testing – Verification – Change with confidence
+Operating - Monitoring
+Supporting - Assisting
+
 ## Access and Authorization
 
 [OpenId and OAuth](https://www.youtube.com/watch?v=996OiexHze0)
 
-## Messaging Approaches
+## Infrastructure - Messaging Approaches
 
 - RabbitMQ - Traditional message broker
 - Kafka - focus on speed and reliability. Streaming only.  Complexity high
     - Event Hub - Azure Kafka as a service
 - NATS - focus on simplicity. Has streaming but not highly available streaming as yet
 
-### MicroService Architecture
+### APIs - MicroService Architecture
 [This talk is useful to run through microservice architecture challengs](https://www.youtube.com/watch?v=fhZwzm-d9ys)
 - Sagas - as the way to acheive distributed transactions
 - CQRS - as the way to acheive distributed queries
 - Event Sourcing or Transactional Outbox - as the way to achieve atomicity between update state and create events
 
-## Complex Event Processing
+## Pipelines - Complex Event Processing
 - [EEP](https://github.com/darach/eep-js)
 - [RxJS](https://www.learnrxjs.io/)
 
-## Rules Engine
+## Inferencing - Rules Engine
 Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - [Waylay.io](https://www.waylay.io)
 
@@ -30,24 +56,24 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - [Simple Statistics](https://simplestatistics.org)
 - [Math.js](http://mathjs.org/)
 
-## Front End Framework
+## Presentation - Front End Framework
 
 - React
 - Vue
 
 [Comparison](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2019-b4142f38df20)
 
-## Front End Components
+## Presentation - Front End Components
 
 [Vuetify](https://vuetify.com)
 
-## Site Hosting Options
+## DevOps - Site Hosting Options
 - netlify.com
 - gitlab.com
 - [Atomist](https://atomist.com/) - full javascript CI/CD
 - [ZeitNow](https://zeit.co/now)
 
-## Email Related Services
+## Notification - Email Related Services
 
 - mailinator.com - Public Email
 - mailtrap.io - SMTP Server useful for dev/staging environments so email isnt sent to customers.
@@ -64,43 +90,43 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - [Ports and Adapters](https://softwarecampament.wordpress.com/portsadapters/)
 - [Cell based framework](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
 
-## UI Architecture Frameworks
+## Presentation - UI Architecture Frameworks
 - MVC
 - [Flux Architecture - Creating UIs](https://facebook.github.io/flux/)
 
-## SDLC Concerns
+## DevOps - SDLC Concerns
 
 - [12factor.net](https://12factor.net/) - Describes the characteristics of contemporary solutions.
 
-### Javascript Test Frameworks
+### Development - Javascript Test Frameworks
 - [Riteway](https://github.com/ericelliott/riteway)
 - Mocha
 - Jest
 - Ava
 
-### Full Stack Application Templates Approaches
+### DevOps - Full Stack Application Templates Approaches
 - Yeoman : a bit dated now
 - React: react has its own templating  though its CLI
 - Vue : Vuew has its own templates through its CLI
 - [Mern](https://mern.io) : Havent yet tried these
 
 
-### Visualization Framework
+### Presentation - Visualization Framework
 - [D3]https://d3js.org/
 - [Deck GL](https://deck.gl/#/examples/core-layers/trips-layer)
 
-### Dashboard Templates Approaches
+### Presentation - Dashboard Templates Approaches
 
 - https://flatlogic.com/
 - https://coreui.io/
 
-### Log Analytics
+### Operationg - Monitoring - Log Analytics
 - Splunk
 - Graylog
 - ElasticSearch/Kinana
 - FluentD
 
-## Notebook Paradigms
+## Presentation - Notebook Paradigms
 - ObservableHQ
 - Jupyter
 
@@ -110,14 +136,14 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - [Plkr](https://plnkr.co/) : Angular specific
 - [Code Pen](https://codepen.io/)
 
-## Cloud Data Pipeline
+## Pipeline - Cloud Data Pipeline
 
 - segment.io
 - funnel.io
 - https://www.datagekko.com
 
 
-# Data Pipeline Approaches
+# Pipeline - Data Pipeline Approaches
 
 | Cloud | Product    | Base Technology | Description |
 | ----- | ---------- | --------------- | ----------- | 
@@ -130,21 +156,23 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 | AWS  | Glue  |                 |  Serverless data pipeline |
 | AWS | EMR | Apache Spark and Hadoop | Distributed query engined |
 | AWS | Data Pipeline |  | Orchestration of Pipeline using other AWS services |
- 
-## Synchronize Data Sets
+| Kubeflow | Kubeflow | Kubernetes | a way to express and managed pipeline jobs |
+
+
+## Integration - Synchronize Data Sets
 - [Zapier Cloud Based Integration Platform](https://zapier.com/)
 
-## Surface private services to the internet
+## Dev Ops - Surface private services to the internet
 
 - ngrok.io 
 - xip.io
 - [localtunnel](https://localtunnel.github.io)
 
-## Domain Name Services
+## Infrastructure - Domain Name Services
 
 nip.io - Provides DNS lookup for 1.2.3.4.nip.io to the corresponding IP address
 
-## Browser Error Aggregation
+## Monitoring - Browser Error Aggregation
 
 - Rollbar
 - Loggly
@@ -152,16 +180,16 @@ nip.io - Provides DNS lookup for 1.2.3.4.nip.io to the corresponding IP address
 - AirBrake
 - ErrorCeption
 
-## Services To Testing Request Content
+## Verification - Services To Test Request Content
 - Request Bin - this was shut down
 - [Post Bin](https://postb.in)
 
-## Testing 
+## Verification - Testing 
 
-### TDD
+### Verification - TDD
 [Red-Green-Refactor](https://www.youtube.com/watch?v=EZ05e7EMOLM) - This has been a breath of fresh air as it address how to minimize writing tests but get the benefits of TDD.
 
-### Unit Testing
+### Verification - Unit Testing
 Riteway
 Mocha
 Ava
@@ -174,7 +202,7 @@ Jest
 ### Quality Checklists
 [Power of 10 Rules](https://en.wikipedia.org/wiki/The_Power_of_10:_Rules_for_Developing_Safety-Critical_Code?source=post_page---------------------------)
 
-## Dependency Management
+## Dev Ops - Dependency Management
 - npm link
 - [yalc](https://github.com/whitecolor/yalc) - Facilitates development with multiple packages without publishing
 - yarn public-local
@@ -194,7 +222,7 @@ Jest
 ### Development Methodology
 
 - Scrum
-- Kanban
+- [Disciplined Agile Kanban](https://www.disciplinedagileconsortium.org/resources/Documents/Posters/PosterLifecycleLean.pdf)
 - [Disciplined Agile](http://disciplinedagiledelivery.com/)
 - [Spiral](https://csse.usc.edu/TECHRPTS/1988/usccse88-500/usccse88-500.pdf)
 - [Red-Green-Refactor](https://www.youtube.com/watch?v=EZ05e7EMOLM) - Can we say this is a methodology
