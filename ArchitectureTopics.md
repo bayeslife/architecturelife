@@ -16,7 +16,7 @@ Push – Notification – Pushing information to users
 
 Forecasting  - Modelling – IO Functions
 - Programmatic – System Development
-- Training  - Machine Learning
+- Training  - Machine Learninghttps://nivo.rocks/components
 API – Interfacing – Surfacing model behaviour
 Pipelines – Composition – Joining information sources/streams
 
@@ -114,13 +114,14 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 ### Presentation - Visualization Framework
 - [D3]https://d3js.org/
 - [Deck GL](https://deck.gl/#/examples/core-layers/trips-layer)
+- [Nivo](https://nivo.rocks/components)
 
 ### Presentation - Dashboard Templates Approaches
 
 - https://flatlogic.com/
 - https://coreui.io/
 
-### Operationg - Monitoring - Log Analytics
+### Operating - Monitoring - Log Analytics
 - Splunk
 - Graylog
 - ElasticSearch/Kinana
