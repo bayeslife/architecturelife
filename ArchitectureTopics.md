@@ -287,3 +287,8 @@ Jest
 - Bootstrap
 - Material Design
 - [Microsoft UI Fabric React](https://developer.microsoft.com/en-us/fabric#/)-With a theme designer [here](https://fabricweb.z5.web.core.windows.net/pr-deploy-site/refs/heads/master/theming-designer/index.html)
+
+
+## SSL / Certificates
+
+[Lets Encrypt](https://letsencrypt.org/) - provides get mechanism to add SSL to a web site
