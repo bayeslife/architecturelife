@@ -304,3 +304,7 @@ Jest
 
 [DataDog](https://app.datadoghq.com/)
 [New Relic](https://newrelic.com/)
+
+## Cloud Logging Aproaches
+[winston](https://www.npmjs.com/package/winston)
+
