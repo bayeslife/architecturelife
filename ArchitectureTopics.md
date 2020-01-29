@@ -116,6 +116,12 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - [Deck GL](https://deck.gl/#/examples/core-layers/trips-layer)
 - [Nivo](https://nivo.rocks/components)
 
+### 3d Visualization 
+- [Resium (React Cesium)](https://resium.darwineducation.com/) - A 3d viewer
+
+### Chart Libraries
+- [Ubser React Visualization](https://uber.github.io/react-vis/)
+
 ### Presentation - Dashboard Templates Approaches
 
 - https://flatlogic.com/
@@ -292,3 +298,9 @@ Jest
 ## SSL / Certificates
 
 [Lets Encrypt](https://letsencrypt.org/) - provides get mechanism to add SSL to a web site
+
+
+## Monitoring Public Sites
+
+[DataDog](https://app.datadoghq.com/)
+[New Relic](https://newrelic.com/)
