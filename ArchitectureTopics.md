@@ -142,6 +142,8 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - [Code Sandbox](http://codesandbox.io)
 - [Plkr](https://plnkr.co/) : Angular specific
 - [Code Pen](https://codepen.io/)
+- [JS Fiddle](https://jsfiddle.net/)
+- [JS Bin](https://jsbin.com/)
 
 ## Pipeline - Cloud Data Pipeline
 
