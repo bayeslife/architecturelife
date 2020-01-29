@@ -224,6 +224,7 @@ Jest
 - Click House
 - Big Query
 - AWS Athena
+- Azure Storage
 
 
 ### Development Methodology
@@ -308,3 +309,8 @@ Jest
 ## Cloud Logging Aproaches
 [winston](https://www.npmjs.com/package/winston)
 
+## Usage Analytics
+
+- Google Analytics
+- Azure ??
+- [MixPanel](https://mixpanel.com/)
