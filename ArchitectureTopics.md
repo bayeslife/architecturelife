@@ -316,3 +316,12 @@ Jest
 - Google Analytics
 - Azure ??
 - [MixPanel](https://mixpanel.com/)
+
+
+## ORM Frameworks
+
+Sequelize - Node JS
+Entity Framework - .Net
+Hibernate - Java
+??? - Python
+
