@@ -154,15 +154,17 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 
 # Pipeline - Data Pipeline Approaches
 
-| Cloud | Product    | Base Technology | Description |
+| Cloud | Product    | Base Technology | Description | 
 | ----- | ---------- | --------------- | ----------- | 
 | GCP   | Composer   | Apache AirFlow         | About definining a data pipeline and its run schedule in code |
 | GCP   | Data Flow  | Apache Beam                |  An sdk which produces a programming paradigm to execute parallel execution. |
 | GCP   | Data Proc  | Apache Spark and Hadoop | A distributed query engine which is really on part of the data pipeline requirement | 
 | GCP   | Data Prep  | Trifacta                |  Cloud based, visual design tool |
 | Azure  | DataBricks  | Apache Spark   | A distributed query engine which is only part of the data pipeline requirement |
+| Azure | Data Factory | 
 | AWS  | QuickSight  |                 |  Cloud based, visual design pipeline tool |
-| AWS  | Glue  |                 |  Serverless data pipeline |
+| AWS  | Glue  |                 |  Serverless data pipeline and data catalog |
+| AWS  | Athena |  | Serverless SQL query for content save in S3 buckets |
 | AWS | EMR | Apache Spark and Hadoop | Distributed query engined |
 | AWS | Data Pipeline |  | Orchestration of Pipeline using other AWS services |
 | Kubeflow | Kubeflow | Kubernetes | a way to express and managed pipeline jobs |
