@@ -89,10 +89,13 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - [Explicit Archtecture](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 - [Ports and Adapters](https://softwarecampament.wordpress.com/portsadapters/)
 - [Cell based framework](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
+- [3 Factor Framework](https://3factor.app/)
+- [Real Value Architecture]()
 
 ## Presentation - UI Architecture Frameworks
 - MVC
 - [Flux Architecture - Creating UIs](https://facebook.github.io/flux/)
+- [Mobx](https://mobx.js.org)
 
 ## DevOps - SDLC Concerns
 
@@ -161,13 +164,19 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 | GCP   | Data Proc  | Apache Spark and Hadoop | A distributed query engine which is really on part of the data pipeline requirement | 
 | GCP   | Data Prep  | Trifacta                |  Cloud based, visual design tool |
 | Azure  | DataBricks  | Apache Spark   | A distributed query engine which is only part of the data pipeline requirement |
-| Azure | Data Factory | 
+| Azure | Data Factory | MQuery, Hadoop | Provides prep,  
 | AWS  | QuickSight  |                 |  Cloud based, visual design pipeline tool |
 | AWS  | Glue  |                 |  Serverless data pipeline and data catalog |
 | AWS  | Athena |  | Serverless SQL query for content save in S3 buckets |
 | AWS | EMR | Apache Spark and Hadoop | Distributed query engined |
 | AWS | Data Pipeline |  | Orchestration of Pipeline using other AWS services |
 | Kubeflow | Kubeflow | Kubernetes | a way to express and managed pipeline jobs |
+
+# Data Warehouse 
+
+| Cloud | Product    | Base Technology | Description | 
+| ----- | ---------- | --------------- | ----------- | 
+| GCP   | BigQuery   |          | About definining a data pipeline and its run schedule in code |
 
 
 ## Integration - Synchronize Data Sets
