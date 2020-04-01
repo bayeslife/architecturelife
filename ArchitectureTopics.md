@@ -92,6 +92,19 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - [3 Factor Framework](https://3factor.app/)
 - [Real Value Architecture]()
 
+## Decision Frameworks
+- [Waterfall]()
+- [Scrum]()
+- [Cynefin](https://medium.com/@warren2lynch/scrum-what-is-cynefin-framework-8c33c01bcc19)
+
+### Development Methodology
+
+- Scrum
+- [Disciplined Agile Kanban](https://www.disciplinedagileconsortium.org/resources/Documents/Posters/PosterLifecycleLean.pdf)
+- [Disciplined Agile](http://disciplinedagiledelivery.com/)
+- [Spiral](https://csse.usc.edu/TECHRPTS/1988/usccse88-500/usccse88-500.pdf)
+- [Red-Green-Refactor](https://www.youtube.com/watch?v=EZ05e7EMOLM) - Can we say this is a methodology
+
 ## Presentation - UI Architecture Frameworks
 - MVC
 - [Flux Architecture - Creating UIs](https://facebook.github.io/flux/)
@@ -238,15 +251,6 @@ Jest
 - Big Query
 - AWS Athena
 - Azure Storage
-
-
-### Development Methodology
-
-- Scrum
-- [Disciplined Agile Kanban](https://www.disciplinedagileconsortium.org/resources/Documents/Posters/PosterLifecycleLean.pdf)
-- [Disciplined Agile](http://disciplinedagiledelivery.com/)
-- [Spiral](https://csse.usc.edu/TECHRPTS/1988/usccse88-500/usccse88-500.pdf)
-- [Red-Green-Refactor](https://www.youtube.com/watch?v=EZ05e7EMOLM) - Can we say this is a methodology
 
 ### Data Mininig Methodology
 
