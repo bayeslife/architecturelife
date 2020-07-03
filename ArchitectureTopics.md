@@ -105,7 +105,7 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - [Spiral](https://csse.usc.edu/TECHRPTS/1988/usccse88-500/usccse88-500.pdf)
 - [Red-Green-Refactor](https://www.youtube.com/watch?v=EZ05e7EMOLM) - Can we say this is a methodology
 
-## Presentation - UI Architecture Frameworks
+## Presentation - Reactivity UI Architecture Frameworks
 - MVC
 - [Flux Architecture - Creating UIs](https://facebook.github.io/flux/)
 - [Mobx](https://mobx.js.org)
