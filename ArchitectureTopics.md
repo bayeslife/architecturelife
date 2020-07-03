@@ -109,6 +109,7 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - MVC
 - [Flux Architecture - Creating UIs](https://facebook.github.io/flux/)
 - [Mobx](https://mobx.js.org)
+- [Recoil](https://recoiljs.org/)
 
 ## DevOps - SDLC Concerns
 
