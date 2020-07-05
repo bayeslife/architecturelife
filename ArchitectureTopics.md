@@ -345,3 +345,9 @@ Entity Framework - .Net
 Hibernate - Java
 ??? - Python
 
+## Process Manager
+
+- forever - used at Spark
+- [Non Sucking Service Manager](https://nssm.cc/) - Used for EOS Premier
+- [PM2](https://pm2.io/) - Considering for use at Quartile One
+
