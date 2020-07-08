@@ -91,6 +91,7 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - [Cell based framework](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
 - [3 Factor Framework](https://3factor.app/)
 - [Real Value Architecture]()
+- [Purdue Enterprise Architecture Mode](https://en.wikipedia.org/wiki/Purdue_Enterprise_Reference_Architecture)
 
 ## Decision Frameworks
 - [Waterfall]()
