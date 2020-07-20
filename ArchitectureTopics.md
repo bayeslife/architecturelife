@@ -289,6 +289,10 @@ Jest
 [Breaking Apart Monolith](https://techbeacon.com/app-dev-testing/how-break-apart-monolith-without-destroying-your-team) - Domain Driven Design, Reverse Conways Law, 
 
 
+## Why projects fail
+
+[Standish report on project succcess/failure](https://www.projectsmart.co.uk/white-papers/chaos-report.pdf)
+
 ## What technologies are popular on the web
 
 [BuiltWith](https://trends.builtwith.com/) - This site exposes technology usage on the web. Similar to idea I had a few years back.
@@ -352,3 +356,8 @@ Hibernate - Java
 - [Non Sucking Service Manager](https://nssm.cc/) - Used for EOS Premier
 - [PM2](https://pm2.io/) - Considering for use at Quartile One
 
+
+## Branching Approaches
+
+- [Gitflow](https://nvie.com/posts/a-successful-git-branching-model/)
+- [Trunk Based](https://trunkbaseddevelopment.com/)
