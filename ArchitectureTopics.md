@@ -83,7 +83,9 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 ## Architecture Frameworks
 
 - TMForum
-- Archimate
+- [UML]()
+- [Togaf]()
+- [Archimate](https://pubs.opengroup.org/architecture/archimate3-doc/)
 - [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [Disciplined Agile](http://disciplinedagiledelivery.com/the-dad-role-of-architecture-owner/) - How architect fits into agile
 - [Explicit Archtecture](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
@@ -138,7 +140,9 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - [Resium (React Cesium)](https://resium.darwineducation.com/) - A 3d viewer
 
 ### Chart Libraries
-- [Ubser React Visualization](https://uber.github.io/react-vis/)
+- [User React Visualization](https://uber.github.io/react-vis/)
+- [Recharts](https://recharts.org)
+
 
 ### Presentation - Dashboard Templates Approaches
 
