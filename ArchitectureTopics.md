@@ -365,3 +365,8 @@ Hibernate - Java
 
 - [Gitflow](https://nvie.com/posts/a-successful-git-branching-model/)
 - [Trunk Based](https://trunkbaseddevelopment.com/)
+
+## Secret Sharing
+
+- Last Pass
+- [One Time Secret](https://onetimesecret.com/)
