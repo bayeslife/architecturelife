@@ -370,3 +370,11 @@ Hibernate - Java
 
 - Last Pass
 - [One Time Secret](https://onetimesecret.com/)
+
+## Vulnerability Scanning
+
+- [Tenable.io](https://www.tenable.com/products)
+
+### Scheduling
+
+- [Google OR](https://developers.google.com/optimization)
