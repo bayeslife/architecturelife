@@ -95,6 +95,7 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - [Real Value Architecture]()
 - [Purdue Enterprise Architecture Mode](https://en.wikipedia.org/wiki/Purdue_Enterprise_Reference_Architecture)
 - [Department of Defence](https://dodcio.defense.gov/Library/DoD-Architecture-Framework/dodaf20_sv1/)
+- [Open Group Agile Architecture](https://www.opengroup.org/AgileArchitecture)
 
 ## Decision Frameworks
 - [Waterfall]()
@@ -357,10 +358,12 @@ Hibernate - Java
 
 ## Process Manager
 
-- forever - used at Spark
-- [Non Sucking Service Manager](https://nssm.cc/) - Used for EOS Premier
-- [PM2](https://pm2.io/) - Considering for use at Quartile One
+Capability to keep processes running if they fall over.
 
+- forever - used at Spark
+- [Non Sucking Service Manager](https://nssm.cc/) - Used for EOS Premier, Windows
+- [PM2](https://pm2.io/) - Considering for use at Quartile One, Windows
+- [Node Windows](https://www.npmjs.com/package/node-windows) - used at Muswellbrook Coal , Windows
 
 ## Branching Approaches
 
@@ -379,3 +382,15 @@ Hibernate - Java
 ### Scheduling
 
 - [Google OR](https://developers.google.com/optimization)
+
+### Parsing and Transformation from language to language
+
+- [Unifieid](https://unifiedjs.com/)
+
+
+### CMS  (Content Management System)
+
+[Cosmic](https://www.cosmicjs.com/)
+[Prismic]()
+[Contentful]()
+[Wordpress]()
