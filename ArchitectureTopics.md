@@ -37,6 +37,7 @@ Supporting - Assisting
     - Event Hub - Azure Kafka as a service
 - NATS - focus on simplicity. Has streaming but not highly available streaming as yet
 
+
 ### APIs - MicroService Architecture
 [This talk is useful to run through microservice architecture challengs](https://www.youtube.com/watch?v=fhZwzm-d9ys)
 - Sagas - as the way to acheive distributed transactions
@@ -271,6 +272,7 @@ Jest
 
 
 ### Schemas
+- [Cloud Events](https://github.com/cloudevents/spec) - Standard for what events should contain
 
 #### Measurements
 - [ISO 19156 Observations & Measurements (O&M) data model](https://en.wikipedia.org/wiki/Observations_and_Measurements)
@@ -292,7 +294,8 @@ Jest
 
 ## How to break projects down
 
-[Breaking Apart Monolith](https://techbeacon.com/app-dev-testing/how-break-apart-monolith-without-destroying-your-team) - Domain Driven Design, Reverse Conways Law, 
+- [Breaking Apart Monolith](https://techbeacon.com/app-dev-testing/how-break-apart-monolith-without-destroying-your-team) - Domain Driven Design, Reverse Conways Law, 
+- [Event Storming](https://en.wikipedia.org/wiki/Event_storming) - A facilitation technique technique to identify a domain model. [eventingstorming.com](https://www.eventstorming.com/)
 
 
 ## Why projects fail
@@ -368,6 +371,7 @@ Capability to keep processes running if they fall over.
 ## Branching Approaches
 
 - [Gitflow](https://nvie.com/posts/a-successful-git-branching-model/)
+- [Gitflow extension to git](https://github.com/petervanderdoes/gitflow-avh/wiki)
 - [Trunk Based](https://trunkbaseddevelopment.com/)
 
 ## Secret Sharing
@@ -390,7 +394,20 @@ Capability to keep processes running if they fall over.
 
 ### CMS  (Content Management System)
 
-[Cosmic](https://www.cosmicjs.com/)
-[Prismic]()
-[Contentful]()
-[Wordpress]()
+- [Cosmic](https://www.cosmicjs.com/)
+- [Prismic]()
+- [Contentful]()
+- [Wordpress]()
+
+## Inefficiency
+
+- [Last Reponsible Moment](https://blog.codinghorror.com/the-last-responsible-moment/)
+- [7 Wastes](https://hackernoon.com/7-wastes-in-lean-software-development-and-how-to-prevent-them-7bi3tqp?source=rss)
+
+
+## Applied Search
+
+This tools index a site and enable context sensitive search
+
+- [algolia](https://www.algolia.com/) - Online search
+- [lunrjs](ttps://lunrjs.com/) - Offline search
