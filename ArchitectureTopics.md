@@ -398,7 +398,8 @@ Capability to keep processes running if they fall over.
 - [Prismic]()
 - [Contentful]()
 - [Wordpress]()
-
+- [Sharepoint]()
+    - [PnP api is the recommended way to call sharepoint from javascript](https://pnp.github.io/pnpjs/getting-started/)
 ## Inefficiency
 
 - [Last Reponsible Moment](https://blog.codinghorror.com/the-last-responsible-moment/)
@@ -411,3 +412,5 @@ This tools index a site and enable context sensitive search
 
 - [algolia](https://www.algolia.com/) - Online search
 - [lunrjs](ttps://lunrjs.com/) - Offline search
+
+
