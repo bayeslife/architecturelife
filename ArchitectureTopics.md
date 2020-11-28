@@ -414,3 +414,12 @@ This tools index a site and enable context sensitive search
 - [lunrjs](ttps://lunrjs.com/) - Offline search
 
 
+## Approaches to real time client server integration
+
+- Web Sockets
+- Web RTC
+
+## Micro Front Ends
+Approach to breaking up application
+
+- Module Federation
