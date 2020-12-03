@@ -169,6 +169,7 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - [Code Pen](https://codepen.io/)
 - [JS Fiddle](https://jsfiddle.net/)
 - [JS Bin](https://jsbin.com/)
+- [Gitpod](https://www.gitpod.io/)
 
 ## Pipeline - Cloud Data Pipeline
 
@@ -423,3 +424,9 @@ This tools index a site and enable context sensitive search
 Approach to breaking up application
 
 - Module Federation
+
+
+## Functional Programming Libraries
+
+- [Ramba](https://ramdajs.com)
+- [RxJs](https://www.learnrxjs.io/)
