@@ -116,6 +116,7 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - [Flux Architecture - Creating UIs](https://facebook.github.io/flux/)
 - [Mobx](https://mobx.js.org)
 - [Recoil](https://recoiljs.org/)
+- [Valtio](https://github.com/pmndrs/valtio)
 
 ## DevOps - SDLC Concerns
 
