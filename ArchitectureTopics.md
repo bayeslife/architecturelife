@@ -32,10 +32,11 @@ Supporting - Assisting
 
 ## Infrastructure - Messaging Approaches
 
-- RabbitMQ - Traditional message broker
-- Kafka - focus on speed and reliability. Streaming only.  Complexity high
+- [Apache Camel](https://camel.apache.org/)
+- [RabbitMQ](https://www.rabbitmq.com/) - Traditional message broker
+- [Kafka](https://kafka.apache.org/) - focus on speed and reliability. Streaming only.  Complexity high
     - Event Hub - Azure Kafka as a service
-- NATS - focus on simplicity. Has streaming but not highly available streaming as yet
+- [NATS](https://nats.io/) - focus on simplicity. Has streaming but not highly available streaming as yet
 
 
 ### APIs - MicroService Architecture
@@ -84,8 +85,8 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 ## Architecture Frameworks
 
 - TMForum
-- [UML]()
-- [Togaf]()
+- [UML](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
+- [Togaf](https://www.opengroup.org/certifications/togaf)
 - [Archimate](https://pubs.opengroup.org/architecture/archimate3-doc/)
 - [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [Disciplined Agile](http://disciplinedagiledelivery.com/the-dad-role-of-architecture-owner/) - How architect fits into agile
@@ -175,7 +176,7 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 ## Pipeline - Cloud Data Pipeline
 
 - segment.io
-- funnel.io
+- [Funnel.io](https://funnel.io/),
 - https://www.datagekko.com
 
 
@@ -270,7 +271,9 @@ Jest
 
 ### API Definition
 - [Swagger](https://swagger.io/) - Focus on REST API
+- [Open API](https://www.openapis.org/)
 - [AsyncAPI](https://www.asyncapi.com/) - Focused on Event Driven Architecture
+- [RAML](https://raml.org/)
 
 
 ### Schemas
@@ -321,6 +324,7 @@ Jest
  [Article providing commentary on the set of mapping apis](https://flatlogic.com/blog/top-javascript-maps-api-and-libraries/)
  - Google Maps
  - Leaflet.js
+ - MapBox
 
 
 ## UI Styling Approaches
@@ -402,6 +406,7 @@ Capability to keep processes running if they fall over.
 - [Wordpress]()
 - [Sharepoint]()
     - [PnP api is the recommended way to call sharepoint from javascript](https://pnp.github.io/pnpjs/getting-started/)
+
 ## Inefficiency
 
 - [Last Reponsible Moment](https://blog.codinghorror.com/the-last-responsible-moment/)
@@ -431,3 +436,15 @@ Approach to breaking up application
 
 - [Ramba](https://ramdajs.com)
 - [RxJs](https://www.learnrxjs.io/)
+
+
+## Persistent Logs
+- [Hyperdrive](https://github.com/hypercore-protocol/hyperdrive)
+
+## Peer to Peer
+- [Hypercore](https://hypercore-protocol.org/)
+
+## Enterprise Service Bus
+- [IBM Message Broker](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?infotype=an&subtype=ca&appname=gpateam&supplier=649&letternum=ENUSA05-1237), 
+- [Mulesoft](https://www.mulesoft.com/), 
+- [Red Hat Fuse](https://www.redhat.com/en/technologies/jboss-middleware/fuse)
