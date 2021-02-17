@@ -100,8 +100,8 @@ So any source can be open source?
 ###  Priorities
 
 What are the 3 most important things to you in the way we work in this project and 
-    - R1: risks if they dont happen
-    - R2: risks in making it happen
+- R1: risks if they dont happen
+- R2: risks in making it happen
 
 For me:
 - How we break work down
