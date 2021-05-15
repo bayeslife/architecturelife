@@ -98,11 +98,12 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - [Purdue Enterprise Architecture Mode](https://en.wikipedia.org/wiki/Purdue_Enterprise_Reference_Architecture)
 - [Department of Defence](https://dodcio.defense.gov/Library/DoD-Architecture-Framework/dodaf20_sv1/)
 - [Open Group Agile Architecture](https://www.opengroup.org/AgileArchitecture)
+- [C4 Model](https://c4model.com/)
 
 ## Decision Frameworks
 - [Waterfall]()
 - [Scrum]()
-- [Cynefin](https://medium.com/@warren2lynch/scrum-what-is-cynefin-framework-8c33c01bcc19)
+- [Cynefin](https://medium.com/@warren2lynch/scrum-what-is-cynefin-framework-8c33c01bcc19) <img src="https://miro.medium.com/proxy/1*CrhLcEx6NUqXNC8k3hUSXQ.png" width="200"/>
 
 ### Development Methodology
 
@@ -448,3 +449,14 @@ Approach to breaking up application
 - [IBM Message Broker](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?infotype=an&subtype=ca&appname=gpateam&supplier=649&letternum=ENUSA05-1237), 
 - [Mulesoft](https://www.mulesoft.com/), 
 - [Red Hat Fuse](https://www.redhat.com/en/technologies/jboss-middleware/fuse)
+
+
+## Ontology
+
+[Relates ontology to simulation](https://www.sne-journal.org/fileadmin/user_upload_sne/SNE_Issues_OA/SNE_24_2/articles/sne.24.2.10243.tn.OA.pdf)
+
+
+## Manage multiple environments
+
+- [nvm]()
+- [volta]()
