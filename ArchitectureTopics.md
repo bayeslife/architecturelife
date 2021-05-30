@@ -99,6 +99,7 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - [Department of Defence](https://dodcio.defense.gov/Library/DoD-Architecture-Framework/dodaf20_sv1/)
 - [Open Group Agile Architecture](https://www.opengroup.org/AgileArchitecture)
 - [C4 Model](https://c4model.com/)
+- [Polylight](https://polylith.gitbook.io/polylith/introduction/polylith-in-a-nutshell)
 
 ## Decision Frameworks
 - [Waterfall]()

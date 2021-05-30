@@ -21,4 +21,4 @@ Considerations/Evaluating/Prioritizing Work Blocks
 
 
 
-
+![](./images/how-to-prototype.png)
