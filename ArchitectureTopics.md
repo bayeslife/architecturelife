@@ -100,6 +100,7 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - [Open Group Agile Architecture](https://www.opengroup.org/AgileArchitecture)
 - [C4 Model](https://c4model.com/)
 - [Polylight](https://polylith.gitbook.io/polylith/introduction/polylith-in-a-nutshell)
+- [Cloud Security Alliance](https://cloudsecurityalliance.org/) - Has security focused cloud architecture content
 
 ## Decision Frameworks
 - [Waterfall]()
