@@ -107,6 +107,12 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - funnel.io
 
 
+## Data Streaming
+
+- [MicroBatching](https://engineering.salesforce.com/applying-the-micro-batching-pattern-to-data-transfer-5b5f72509da2/)
+- [Spark Streaming](https://www.databricks.com/blog/2015/07/30/diving-into-apache-spark-streamings-execution-model.html)
+- [Spark Stream API](https://spark.apache.org/docs/latest/streaming-programming-guide.html)
+
 ## Data Integration
 - [XMPro](https://xmpro.com/) : 
 - [Reekoh](https://reekoh.com/) : Brisbane based, Merrick Spain introduced
