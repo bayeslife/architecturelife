@@ -223,3 +223,12 @@ Jest
 ### Cyber Security Assessment Frameworks
 
 [AESCSF](https://aemo.com.au/initiatives/major-programs/cyber-security/aescsf-framework-and-resources) - is a cyber security framework for the energy space.  Provides a method which could be followed.
+
+### Data Table Visualization
+
+- [Hands on table](https://handsontable.com/pricing)
+- [AG Grid](https://www.ag-grid.com/)
+
+### 3D BIM Models
+
+- [ICCJS](https://ifcjs.github.io/info/)
