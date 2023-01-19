@@ -232,3 +232,21 @@ Jest
 ### 3D BIM Models
 
 - [ICCJS](https://ifcjs.github.io/info/)
+
+
+### SQL Modeling
+
+- [SQLDM](https://sqldbm.com/Home/) - Data modeling
+
+
+### Data Visualization
+
+- Power BI
+- Plausible Analytics  (replacement for Google Analytics)
+
+
+###  Imagery
+
+- [Unsplash.com](http://Unsplash.com)
+- [pexels.com](http://pexels.com)
+- [thenounproject.com](http://thenounproject.com)
