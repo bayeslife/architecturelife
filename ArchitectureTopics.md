@@ -112,6 +112,7 @@ Nice summary [here](https://blog.waylay.io/tag/rules-engine/)
 - [MicroBatching](https://engineering.salesforce.com/applying-the-micro-batching-pattern-to-data-transfer-5b5f72509da2/)
 - [Spark Streaming](https://www.databricks.com/blog/2015/07/30/diving-into-apache-spark-streamings-execution-model.html)
 - [Spark Stream API](https://spark.apache.org/docs/latest/streaming-programming-guide.html)
+- [Spark Structure Streaming](https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html)
 
 ## Data Integration
 - [XMPro](https://xmpro.com/) : 
@@ -250,3 +251,8 @@ Jest
 - [Unsplash.com](http://Unsplash.com)
 - [pexels.com](http://pexels.com)
 - [thenounproject.com](http://thenounproject.com)
+
+
+### Historian
+
+- [OSI PI](https://docs.aveva.com/bundle/pi-server-da-smt/page/1032391.html)
