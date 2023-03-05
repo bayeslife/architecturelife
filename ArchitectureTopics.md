@@ -256,3 +256,10 @@ Jest
 ### Historian
 
 - [OSI PI](https://docs.aveva.com/bundle/pi-server-da-smt/page/1032391.html)
+
+
+### Distributed Tracing
+
+- honeycomb.io = havent used this but intend to at the next opportunity
+
+
