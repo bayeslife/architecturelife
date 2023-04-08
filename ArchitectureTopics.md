@@ -223,7 +223,11 @@ Jest
 
 ### Cyber Security Assessment Frameworks
 
-[AESCSF](https://aemo.com.au/initiatives/major-programs/cyber-security/aescsf-framework-and-resources) - is a cyber security framework for the energy space.  Provides a method which could be followed.
+- [AESCSF](https://aemo.com.au/initiatives/major-programs/cyber-security/aescsf-framework-and-resources) - is a cyber security framework for the energy space.  Provides a method which could be followed.
+
+
+- [Cloud Security Alliance](https://cloudsecurityalliance.org/)
+    - [Pragmatic Dev Sec Ops](https://cloudsecurityalliance.org/artifacts/six-pillars-devsecops-pragmatic-implementation/)
 
 ### Data Table Visualization
 
@@ -263,3 +267,8 @@ Jest
 - honeycomb.io = havent used this but intend to at the next opportunity
 
 
+## ETL Services
+
+- FiveTran
+- StreamSets
+- Workato
