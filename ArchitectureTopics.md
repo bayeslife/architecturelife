@@ -242,6 +242,8 @@ Jest
 ### SQL Modeling
 
 - [SQLDM](https://sqldbm.com/Home/) - Data modeling
+- [Hackolade](https://hackolade.com/)
+- [Data Hub](https://datahubproject.io/)
 
 
 ### Data Visualization

@@ -12,3 +12,16 @@ OT Security Standards
 - ISM - This is a government standard provides a comprehensive framework which comprehensively covers information security risks and controls.
 - IEC62443 - Addresses industrial automation and control systems
     - ISA99 - working group which led to IEC62443
+
+
+Risk Assessment Standards   
+
+Basel 2 - https://www.bis.org/publ/bcbs107.pdf 
+-Has business risk categories of:
+    - Internal Fraud
+    - External Fraud
+    - Employment Practices/Safety
+    - Clients/Products
+    - Damage to Physical Assets
+    - Business Disruption
+    - Execution/Delivery/Process Mgt
